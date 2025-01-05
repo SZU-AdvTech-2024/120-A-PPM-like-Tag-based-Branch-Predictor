@@ -1,0 +1,8 @@
+@article{REPO120,
+    author = "Michaud, Pierre",
+    journal = "The Journal of Instruction-Level Parallelism",
+    pages = "10",
+    title = "{A PPM-like, tag-based branch predictor}",
+    volume = "7",
+    year = "2005"
+}
